@@ -1,2 +1,2 @@
-let object = { firstName: "John", lastName: "wilson" };
-module.export = object;
+const val = { firstName: "John", lastName: "Wilson" };
+module.exports = val;

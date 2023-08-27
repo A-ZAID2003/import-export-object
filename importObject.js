@@ -1,2 +1,2 @@
-let object = require("./exportObject");
-console.log(object);
+const val = require("./exportObject");
+console.log(val);
